@@ -21,12 +21,15 @@
       }
       @include media(">=phone", "<lgphone") {
         font-size: 13px;
+        margin: 0rem 1rem;
       }
       @include media(">=lgphone", "<tablet") {
         font-size: 13px;
+        margin: 0rem 1rem;
       }
       @include media(">=tablet", "<desktop") {
         font-size: 13px;
+        margin: 0rem 1rem;
       }
     }
     .active {
