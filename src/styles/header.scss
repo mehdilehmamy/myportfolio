@@ -37,14 +37,14 @@
     }
   }
   .primary-btn {
-    transition: all 0.2s ease-in-out;
+    transition: all .3s ease-in-out;
+    border-radius: 5px;
     box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.3);
   }
   .primary-btn:hover {
     color: black;
     background-color: white;
-    transform: translateY(5px);
-    box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.3);
+    border: 2px solid #000;
   }
   p {
     width: 50%;
