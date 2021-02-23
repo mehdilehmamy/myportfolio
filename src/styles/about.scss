@@ -1,8 +1,9 @@
 .about-section {
   width: 80vw;
-  margin-top: 10vh;
+  margin-top: 25vh;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   @include media(">=phone", "<lgphone") {
     flex-direction: column-reverse;
   }

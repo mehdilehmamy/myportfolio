@@ -9,13 +9,13 @@
     font-size: 1rem;
     text-align: center;
     @include media(">=phone", "<lgphone") {
-      font-size: 14px;
+      font-size: 20px;
     }
     @include media(">=lgphone", "<tablet") {
-      font-size: 16px;
+      font-size: 20px;
     }
     @include media(">=tablet", "<desktop") {
-      font-size: 16px;
+      font-size: 20px;
     }
   }
   .heading-wrapper {

@@ -9,6 +9,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           "linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(0, 0, 0, 0.4)),url(" +
           imgUrl +
           ")",
+        margin: "0rem 2rem 0rem 0rem"  
       }}
     >
       <div className="content">

@@ -10,6 +10,7 @@ const Navbar = () => {
             onClick={() => scrollTo("#home")}
             className="name"
             tabIndex={0}
+            style={{cursor:"pointer"}}
           >
             Mehdi Lehmamy
           </div>
