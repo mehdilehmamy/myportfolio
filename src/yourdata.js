@@ -40,7 +40,7 @@ export default {
         "A URl shortner made with react that uses a third party API", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/url.jpg",
+        "https://i.ibb.co/JKtJZ6D/url.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://shortly-mehdi-git-master.mehdilehmamy.vercel.app/",
     },
@@ -51,7 +51,7 @@ export default {
         "A modern landing page made as part of a challenge.              ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/huddle.jpg",
+        "https://i.ibb.co/zFqLZwL/huddle.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://huddlelandingpage-six.vercel.app/",
     },
@@ -62,7 +62,7 @@ export default {
         "A modern landing page made as part of a challenge.              ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/insure.jpg",
+        "https://i.ibb.co/0GhSskq/insure.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://insurelandingpage-delta.vercel.app/",
     },
@@ -73,7 +73,7 @@ export default {
         "A modern landing page made as part of a challenge.       ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/loop.jpg",
+        "https://i.ibb.co/JjW5Kw0/loop.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://loopstudios-indol.vercel.app/",
     },
@@ -84,7 +84,7 @@ export default {
         "A google keeps clone made with react.       ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/keeper.png",
+        "https://i.ibb.co/Vv13235/keeper.png",
       //Project URL - Add Your Project Url Here
       url: "https://react-keeper.vercel.app/",
     },
@@ -95,7 +95,7 @@ export default {
         "A TODO app made with react.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/todo.png",
+        "https://i.ibb.co/SnVn26w/todo.png",
       //Project URL - Add Your Project Url Here
       url: "https://justdoit-umber.vercel.app/",
     },
@@ -122,7 +122,7 @@ export default {
   aboutParaThree:
     "",
   aboutImage:
-    "mehdi.png",
+    "https://i.ibb.co/M2DY0sT/mehdi.png",
 
   //   End About Section ---------------------
 
