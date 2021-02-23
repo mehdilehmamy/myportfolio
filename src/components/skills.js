@@ -11,7 +11,7 @@ const Skills = () => {
             {data.skills.map(skill => (
               <div className="skill" key={skill.id}>
                 <img src={skill.img} alt="css"></img>
-                <p>{skill.para}</p>
+                <h2>{skill.para}</h2>
               </div>
             ))}
           </div>
